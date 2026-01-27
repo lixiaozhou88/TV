@@ -1,0 +1,12 @@
+{
+  "urls": [
+    {
+      "url": "clan://localhost/tvbox/TV/xmz.json",
+      "name": "⭐小米粥"
+    },
+        {
+      "url": "clan://localhost/tvbox/TV/wp.json",
+      "name": "📁网盘4K"
+    }
+  ]
+}
