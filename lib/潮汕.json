@@ -1,0 +1,184 @@
+{
+  "classNameList": [
+ "潮汕歌曲","潮汕小品", "潮剧","经典歌曲"
+  ],
+  "VideoClassInfoList": {
+    "潮汕歌曲": [
+      {
+        "title": "潮汕歌曲",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/94e97d408c826939c5d5ee07a466a1f27fd48945.jpg",
+        "videoCount": 26,
+        "bvid": "BV1as411h7Rx"
+      },
+      {
+        "title": "潮语歌曲2",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/44c8873d78af45e31f342680d9bf6ab54fdba2a3.jpg@375w_210h_1c.webp",
+        "videoCount": 15,
+        "bvid": "BV1C64y1f7dZ"
+      },
+      {
+        "title": "方展荣",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/95dc6587ac48dad72a9418dbedcba782b0d26a8b.jpg",
+        "videoCount": 29,
+        "bvid": "BV1Js411h7ph"
+      },
+      {
+        "title": "牛马丁",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/0b1e5e6ee8e4e7ea31221d8a673b2d3a835cde80.jpg",
+        "videoCount": 34,
+        "bvid": "BV1as411h7CB"
+      },
+      {
+        "title": "李小珍",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/1fb5c4a2eab80b428a0e2b663065f3065edc92bd.png@384w_216h_1c.webp",
+        "videoCount": 62,
+        "bvid": "BV1ax411B7LF"
+      },
+      {
+        "title": "方展荣颂歌",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/6812b10a3f89eeec0bdd83525f60ac5dad6b659a.jpg",
+        "videoCount": 23,
+        "bvid": "BV1NW411c7Zp"
+      },
+      {
+        "title": "音妹",
+        "picUrl": "https://content-produce.quark.cn/26010007/c9684f0394b04b2cb9d2fa980b9e39ee/237f5ef67a25478195de178e75ca1d68.jpeg",
+        "videoCount": 54,
+        "bvid": "BV1EDk2YCEim"
+      }
+    ],
+   
+     "潮汕小品": [
+          {
+        "title": "夏雨来全集",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/00cb353c3a1df60dacb28ddc6d641d0634b2bdd1.jpg@375w_210h_1c.webp",
+        "videoCount": 42,
+        "bvid": "BV1j9rKYxEyE"
+      },
+      {
+        "title": "周不错与虱母仙",
+        "picUrl": "https://i2.hdslb.com/bfs/archive/622dd89199bd1dd9c9da978d36f31756bbf0fbdc.jpg@375w_210h_1c.webp",
+        "videoCount": 2,
+        "bvid": "BV1MZCRB5EuS"
+      },
+      {
+        "title": "七十二家房客",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/41833464ffb9efd764b20cd86026d5e7d3762962.jpg@375w_210h_1c.webp",
+        "videoCount": 3,
+        "bvid": "BV1ja41127Ye"
+      },
+      {
+        "title": "个银二粒",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/6ef24e8913bbfbe780953677dffa100cbbf5c2a1.jpg@375w_210h_1c.webp",
+        "videoCount": 11,
+        "bvid": "BV1cXkBBSEx8"
+      },
+      {
+        "title": "理唔直",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/e516bc3214efb44f716fffedfd2b15ba27ac5435.jpg@375w_210h_1c.webp",
+        "videoCount": 5,
+        "bvid": "BV1JyC4BJEFJ"
+      },
+      {
+        "title": "潮语版-唐伯虎点秋香",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/7fa2256ba5bc9386a1eb526a37606d7110541494.jpg@384w_216h_1c.webp",
+        "videoCount": 1,
+        "bvid": "BV1sCnFz1EC2"
+      }
+    ],
+    "潮剧": [
+{
+        "title": "十仙庆寿",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/7aa1e7e5d8ac9f094077d652dc8c4fd829eed368.jpg",
+        "videoCount": 1,
+        "bvid": "BV1dd4y1H7W9"
+      },
+{
+        "title": "潮剧精选",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/bc42546a32f3b95810200d1c077399e8a924364c.jpg@375w_210h_1c.webp",
+        "videoCount": 234,
+        "bvid": "BV1ub411273b"
+      },
+{
+        "title": "百花潮剧院",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/85d7cf5168cada2768b5a6d9ba4f28e00d17b292.png@375w_210h_1c.webp",
+        "videoCount": 30,
+        "bvid": "BV1dd4y1H7W9"
+      },
+      {
+        "title": "潮剧院",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/c87151e5d9d0fd041b559aa38cbdbc036b976d2b.png@375w_210h_1c.webp",
+        "videoCount": 14,
+        "bvid": "BV18M4y1R784"
+      },
+           {
+        "title": "潮剧唱段",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/2e74c1b64d8a2580af2d2dc921fcd4ffb28364f1.png@375w_210h_1c.webp",
+        "videoCount": 26,
+        "bvid": "BV1wY411B7RE"
+      },
+      {
+        "title": "柴房会",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/e090dbb55caf750443be454ec6997d328827a720.jpg@375w_210h_1c.webp",
+        "videoCount": 1,
+        "bvid": "BV1Dr421w7QT"
+      },
+      {
+        "title": "方展荣潮剧选段",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/2985a70efb587ece796860a83183133f1ab48812.png@375w_210h_1c.webp",
+        "videoCount": 16,
+        "bvid": "BV1Dz4y1q7ER"
+      },
+      {
+        "title": "绛玉掼粿",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/eea54197c4bf582421e14aff9e292d302d5b7371.jpg@375w_210h_1c.webp",
+        "videoCount": 1,
+        "bvid": "BV1ij411C7gJ"
+      },
+      {
+        "title": "蓝继子",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/3e64af067bd2c166580e1fcb3f0943071914fa74.jpg@375w_210h_1c.webp",
+        "videoCount": 1,
+        "bvid": "BV1zV411L7dP"
+      },
+      {
+        "title": "红鬃烈马",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/4f943d0c13bdc7097813f26a9666ce24323aa667.jpg@672w_378h_1c.webp",
+        "videoCount": 1,
+        "bvid": "BV1XxBRBqELA"
+      }
+    ],
+    "经典歌曲": [
+{
+        "title": "卓依婷",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/c716068c493cb093099810d119359e9cedb0573f.jpg",
+        "videoCount": 200,
+        "bvid": "BV1JM411X7kM"
+      },
+          {
+        "title": "卓依婷-闽南语情歌对唱",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/1d4ec466adc5d0cb50a4e8e41c666b693e47c994.jpg",
+        "videoCount": 13,
+        "bvid": "BV1mFidB4Ecp"
+      },
+      {
+        "title": "孙露-无损发烧试音碟",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/ad06188f4d4243d0f08ac31a856c5bc56f8247b0.png",
+        "videoCount": 1,
+        "bvid": "BV18w411471i"
+      },
+      {
+        "title": "叶启田-闽南歌曲",
+        "picUrl": "https://i1.hdslb.com/bfs/archive/ae59754bb775e14660bfcf7f022f5664f96bcc00.jpg",
+        "videoCount": 47,
+        "bvid": "BV1JR4y187Fg"
+      },
+      {
+        "title": "陈小云-闽南歌曲",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/493c60592869a80d9acccbacd2f7618350b06bb1.jpg",
+        "videoCount": 12,
+        "bvid": "BV19wjmz5EwQ"
+      }
+    ]
+  }
+}
