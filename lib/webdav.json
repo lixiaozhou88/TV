@@ -1,0 +1,16 @@
+{
+  "drives": [
+    {
+      "name": "本机",
+      "server": "http://127.0.0.1:5244/dav/",
+      "user": "admin",
+      "pass": "admin"
+    },
+    {
+      "name": "局域网/ip8",
+      "server": "http://192.168.1.8:5244/dav/",
+      "user": "admin",
+      "pass": "admin"
+    }
+  ]
+}
