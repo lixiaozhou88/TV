@@ -1,8 +1,34 @@
 {
   "classNameList": [
- "潮汕歌曲","潮汕小品", "潮剧","经典歌曲"
+ "潮汕歌曲","潮汕小品","潮剧","经典歌曲","新年歌曲"
   ],
   "VideoClassInfoList": {
+  "新年歌曲": [
+  {
+  "title": "春节氛围感拉满！听完就想回家",
+  "picUrl": "http://i1.hdslb.com/bfs/archive/08c5e56f46a7846fb9dba0406558037a53dcbdca.jpg@375w_210h_1c.webp",
+  "bvid": "BV1SqZxBKEqz",
+  "videoCount": 1
+},
+  {
+  "title": "卓依婷-恭喜发财",
+  "picUrl": "http://i1.hdslb.com/bfs/archive/0f48b29834b31c9a51b6493626652a0ffc4149e0.png@375w_210h_1c.webp",
+  "bvid": "BV1TT4y1a7va",
+  "videoCount": 16
+},
+      {
+        "title": "卓依婷贺岁",
+        "picUrl": "https://i1.hdslb.com/bfs/archive/42a3015ad2bc314486a76e9130c1882548017c0f.png@375w_210h_1c.webp",
+        "videoCount": 24,
+        "bvid": "BV12c411d7RF"
+      },
+      {
+  "title": "新年歌曲大合集",
+  "picUrl": "http://i2.hdslb.com/bfs/archive/0a76c097611106f8fb6e1807fa936a3d5184e4bd.jpg@375w_210h_1c.webp",
+  "bvid": "BV1PT411m7EG",
+  "videoCount": 50
+}
+      ],
     "潮汕歌曲": [
       {
         "title": "潮汕歌曲",
